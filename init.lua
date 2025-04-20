@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2025 Dirkfried
+--
+-- SPDX-License-Identifier: MIT
+
 swapnodes = {}
 
 local modpath = minetest.get_modpath("swapnodes")

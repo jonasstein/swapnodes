@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2025 Dirkfried
+--
+-- SPDX-License-Identifier: MIT
+
 local S = swapnodes.S
 local register_node = swapnodes.register_node
 
